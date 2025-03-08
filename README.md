@@ -269,5 +269,6 @@ This analysis provides a comprehensive view of Netflix's content and can help in
    This project is licensed under MIT License [License](https://github.com/edigasreelekha/License/blob/main/README.md)
 
 
-
+Ediga Sreelekha 
+srilekhagowd8@gmail.com
 
