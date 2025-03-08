@@ -13,6 +13,7 @@ This project involves a comprehensive analysis of Netflix's movies and TV shows 
 - Explore and categorize content based on specific criteria and keywords.
 
 ## Dataset
+[CLICK HERE](https://github.com/edigasreelekha/netflix_sql_project/blob/main/netflix_titles.csv)
 
 The data for this project is sourced from the Kaggle dataset:
 
